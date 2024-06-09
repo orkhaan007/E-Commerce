@@ -1,0 +1,124 @@
+{
+  "all-products": [
+    {
+      "path": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/f094af40-f82f-4fb9-a246-e031bf6fc411/air-force-1-07-womens-shoes-b19lqD.png",
+      "fullname": "Nike Air Force 1 '07",
+      "type": "Shoes",
+      "price": 115.00,
+      "discounted_price": null,
+      "IsHot": "Hot"
+    },
+    {
+      "path": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/8f2b32ed-34f4-4065-ab8f-f3a9d0aa47a8/dunk-low-retro-se-mens-shoes-qTZ3Jk.png",
+      "fullname": "Nike Dunk Low Retro SE",
+      "type": "Shoes",
+      "price": 125.00,
+      "discounted_price": null,
+      "IsHot": ""
+    },
+    {
+      "path": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/6d63bbc8-92c4-4fda-9158-02626c949cf5/free-metcon-5-mens-workout-shoes-H0Qszz.png",
+      "fullname": "Nike Free Metcon 5",
+      "type": "Shoes",
+      "price": 83.97,
+      "discounted_price": null,
+      "IsHot": ""
+    },
+    {
+      "path": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/02f3d37f-a63a-43a5-ac3a-01b2ebd4557a/blazer-low-77-womens-shoes-01lVDq.png",
+      "fullname": "Nike Blazer Low '77",
+      "type": "Shoes",
+      "price": 90.00,
+      "discounted_price": 70.00,
+      "IsHot": "Hot"
+    },
+    {
+      "path": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/c7535fe6-153d-4a5e-9d5a-d72c5c813c85/dunk-low-premium-next-nature-womens-shoes-xW59Qz.png",
+      "fullname": "Nike Dunk Low Next Nature",
+      "type": "Shoes",
+      "price": 120.00,
+      "discounted_price": null,
+      "IsHot": ""
+    },
+    {
+      "path": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/321e3ce3-b941-47b2-96fc-26ce0e8b6bd9/sportswear-premium-essentials-mens-t-shirt-mkhTvc.png",
+      "fullname": "Nike Sportswear Essentials",
+      "type": "T-Shirt",
+      "price": 45.00,
+      "discounted_price": null,
+      "IsHot": "Hot"
+    },
+    {
+      "path": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/kxjgqmbim9zxricso57p/dri-fit-mens-fitness-t-shirt-nhgSHx.png",
+      "fullname": "Nike Dri-FIT",
+      "type": "T-Shirt",
+      "price": 30.00,
+      "discounted_price": null,
+      "IsHot": "Hot"
+    },
+    {
+      "path": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/40ecebb1-cbc5-4581-97d0-2bec662e51f4/kevin-durant-mens-basketball-t-shirt-GKjvrH.png",
+      "fullname": "Nike Kevin Durant",
+      "type": "T-Shirt",
+      "price": 50.00,
+      "discounted_price": null,
+      "IsHot": ""
+    },
+    {
+      "path": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/93e86177-0f5b-487c-b5b0-d519f0bb8a55/rafa-mens-dri-fit-adv-short-sleeve-tennis-top-l5VSMm.png",
+      "fullname": "Nike Rafa",
+      "type": "T-Shirt",
+      "price": 105.00,
+      "discounted_price": 85.00,
+      "IsHot": ""
+    },
+    {
+      "path": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/divhtybtltxjtyhhq2i5/sportswear-club-mens-t-shirt-ShrJfX.png",
+      "fullname": "Nike Sportswear Club",
+      "type": "T-Shirt",
+      "price": 30.00,
+      "discounted_price": null,
+      "IsHot": "Hot"
+    },
+    {
+      "path": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/8583d6d8-bdc8-4ba9-879b-aeb68179129c/acg-wolf-tree-polartec-mens-full-zip-top-DwxmXv.png",
+      "fullname": "Nike ACG Polartec®",
+      "type": "Jacket",
+      "price": 175.00,
+      "discounted_price": 157.97,
+      "IsHot": ""
+    },
+    {
+      "path": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco,u_126ab356-44d8-4a06-89b4-fcdcc8df0245,c_scale,fl_relative,w_1.0,h_1.0,fl_layer_apply/4e4347b6-94a3-43e4-8a74-5b84190608b1/jordan-flight-mvp-mens-statement-jacket-jHnFln.png",
+      "fullname": "Jordan Flight MVP",
+      "type": "Jacket",
+      "price": 125.00,
+      "discounted_price": null,
+      "IsHot": ""
+    },
+    {
+      "path": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/d95fd286-d39c-43c9-a44a-84a0b79de51c/club-mens-marina-anorak-p8scJj.png",
+      "fullname": "Nike Club",
+      "type": "Jacket",
+      "price": 85.00,
+      "discounted_price": null,
+      "IsHot": "Hot"
+    },
+    {
+      "path": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/7eed5693-8534-4dd4-b8c8-dd12c2ca9305/windrunner-mens-repel-running-jacket-09L39f.png",
+      "fullname": "Nike Windrunner",
+      "type": "Jacket",
+      "price": 125.00,
+      "discounted_price": null,
+      "IsHot": ""
+    },
+    {
+      "path": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/4c042d4e-fe5c-4dca-a931-6d98bd678037/track-club-mens-storm-fit-running-jacket-BKksps.png",
+      "fullname": "Nike Track Club",
+      "type": "Jacket",
+      "price": 100.00,
+      "discounted_price": null,
+      "IsHot": "Hot"
+    }
+  ]
+}

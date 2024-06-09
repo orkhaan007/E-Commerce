@@ -1,0 +1,40 @@
+.explore {
+  padding: 35px 240px;
+  background-color: white;
+  position: relative;
+
+  &__icon-list {
+    display: flex;
+    justify-content: center;
+    margin-bottom: 60px;
+    gap: 90px;
+    margin-right: 70px;
+
+    & > * {
+      cursor: pointer;
+    }
+  }
+
+  &__clothings {
+    display: flex;
+  }
+
+  &__clothings-small {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 20px;
+  }
+
+  &__rotated-text {
+    position: absolute;
+    font-family: Roboto;
+    font-size: 34px;
+    font-weight: 400;
+    text-transform: uppercase;
+    transform: translate(-50%, -50%);
+    transform: rotate(-90deg);
+    left: -100px;
+    top: 55%;
+  }
+}

@@ -1,0 +1,18 @@
+.footer {
+  padding: 15px 190px;
+  background-color: black;
+  display: flex;
+  justify-content: space-between;
+
+  &__text {
+    cursor: pointer;
+    font-family: Open Sans;
+    font-size: 16px;
+    font-weight: 400;
+    color: white;
+  }
+
+  &__image {
+    cursor: pointer;
+  }
+}

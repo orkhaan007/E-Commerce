@@ -1,0 +1,55 @@
+.hero {
+  position: relative;
+  background-color: rgba(30, 40, 50, 0.05);
+  padding: 50px 0px;
+
+  &__container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 30px;
+  }
+
+  &__embed-container > * {
+    margin-bottom: 50px;
+  }
+
+  &__header {
+    font-family: Roboto;
+    font-size: 74px;
+    font-weight: 300;
+    text-transform: capitalize;
+  }
+
+  &__paragraph {
+    font-family: Roboto;
+    font-size: 30px;
+    font-weight: 400;
+    text-transform: capitalize;
+  }
+
+  &__image {
+    position: absolute;
+  }
+
+  &__button {
+    background-color: black;
+    padding: 19px 50px;
+    cursor: pointer;
+    color: white;
+    text-transform: capitalize;
+    font-family: Roboto;
+    font-size: 29px;
+  }
+}
+
+.i1 {
+  left: 0;
+  bottom: 25%;
+}
+
+.i2 {
+  transform: rotateY(40deg);
+  right: -28px;
+  bottom: 25%;
+}
